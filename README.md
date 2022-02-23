@@ -1,4 +1,4 @@
-# Hi there 👋, my name is SHOURAV MAJUMDER
+# Hi there 👋, myself SHOURAV MAJUMDER
 #### Web App Developer
 
 I love to play wildly with my coding passion. Summary to my objective is to be, make a better future with the help of technology available nowadays and future tomorrow. My biggest strength is that I'm a quick learner, problem solving skill and have patience for long time coding.
