@@ -1,6 +1,5 @@
 # Hi there 👋, my name is SHOURAV MAJUMDER
 #### Web App Developer
-![Web App Developer](https://shrveel.files.wordpress.com/2020/05/shadow-luci-2.jpg?w=1024)
 
 I love to play wildly with my coding passion. Summary to my objective is to be, make a better future with the help of technology available nowadays and future tomorrow. My biggest strength is that I'm a quick learner, problem solving skill and have patience for long time coding.
 
