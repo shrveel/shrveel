@@ -6,11 +6,11 @@ I love to play wildly with my coding passion. Summary to my objective is to be, 
 
 Skills: JAVA / Python / HTML / CSS / PHP / MySQL
 
-- 🔭 I’m currently working on Python App Development 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on JAVA & Web Application Development 
+- 🔭 I’m currently working on Data Science 
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Data Analysis & Data Sampling 
 - 🤔 I’m looking for help with Python 
-- 💬 Ask me about JAVA programming 
+- 💬 Ask me about JAVA & Python programming, also about Data Science
 - 📫 How to reach me: shourav.lucifer@gmail.com 
 
 
