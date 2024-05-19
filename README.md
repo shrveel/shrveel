@@ -1,15 +1,15 @@
 # Hi there 👋 
 # myself SHOURAV MAJUMDER
-#### Web App Developer
+#### Data Analyst/ enthusiast about Data Scientist
 
 I love to play wildly with my coding passion. Summary to my objective is to be, make a better future with the help of technology available nowadays and future tomorrow. My biggest strength is that I'm a quick learner, problem solving skill and have patience for long time coding.
 
-Skills: JAVA / Python / HTML / CSS / PHP / MySQL
+Skills: JAVA / Python / HTML / CSS / PHP / MySQL / R / 
 
 - 🔭 I’m currently working on Data Science 
-- 🌱 I’m currently learning Python
+- 🌱 I’ve experienced in Data Visualization, Regression Analysis & Machine Learning
 - 👯 I’m looking to collaborate on Data Analysis & Data Sampling 
-- 🤔 I’m looking for help with Python 
+- 🤔 I’m looking for industrial experience of Data Science
 - 💬 Ask me about JAVA & Python programming, also about Data Science
 - 📫 How to reach me: shourav.lucifer@gmail.com 
 
